@@ -1,0 +1,1 @@
+You found pepper spray and a gallon of water inside the backpack.

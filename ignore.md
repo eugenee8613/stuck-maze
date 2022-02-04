@@ -1,0 +1,1 @@
+You find a fully charged light next to you
