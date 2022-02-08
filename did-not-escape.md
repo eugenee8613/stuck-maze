@@ -1,0 +1,1 @@
+Sadly, you realize that it's the end of your adventure!
