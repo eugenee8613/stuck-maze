@@ -1,3 +1,3 @@
 Congrats! You escaped!
 
-[Start Over](in-the-maze.md)
+[Start Over](../in-the-maze.md)
