@@ -5,6 +5,6 @@ The purpose of this project is to create our own adventure by collaborating and 
 
 Click [here](in-the-maze.md) to begin.
 
-Click here to see the diagram of CYOA.
+Click [here](https://docs.google.com/drawings/d/1mSl1cxDMSIYAZWXbTYRBCgb2vsGBBRDCZ902tKJnb-c/edit?usp=sharing) to see the diagram of CYOA.
 
 Made by Eugene and Selina.
