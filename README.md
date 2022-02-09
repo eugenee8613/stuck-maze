@@ -7,4 +7,4 @@ Click [here](in-the-maze.md) to begin.
 
 Click [here](https://docs.google.com/drawings/d/1mSl1cxDMSIYAZWXbTYRBCgb2vsGBBRDCZ902tKJnb-c/edit?usp=sharing) to see the diagram of CYOA.
 
-Made by Eugene and Selina.
+Made by Eugene and [Selina](https://github.com/selinal6564).
