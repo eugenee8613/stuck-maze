@@ -1,3 +1,3 @@
 You find another door.
 
-[Go inside the door](escape.md)
+[Go inside the door](endings/escape.md)
